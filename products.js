@@ -5,7 +5,7 @@ initStore([
         description:
             'Experience the epic action RPG with vast open-world exploration, challenging bosses, and deep lore that captivates every gamer.',
         price: 89.00,
-        image: 'images/products/elden-ring.jpg',
+        image: 'images/game-1.jpg',
     },
     {
         id: 2,
@@ -13,7 +13,7 @@ initStore([
         description:
             'Join three unforgettable criminals in a sprawling open-world adventure packed with chaos, heists, and thrilling gameplay.',
         price: 59.95,
-        image: 'images/products/gtav.jpg',
+        image: 'images/game-2.jpg',
     },
     {
         id: 3,
@@ -21,7 +21,7 @@ initStore([
         description:
             'Step into the magical universe of Hogwarts with immersive storylines, spellcasting, and exploration in this highly praised action RPG.',
         price: 99.00,
-        image: 'images/products/hogwarts-legacy.jpg',
+        image: 'images/game-3.jpg',
     },
     {
         id: 4,
@@ -29,7 +29,7 @@ initStore([
         description:
             'The latest football simulation game featuring stunning graphics, realistic gameplay, and updated teams and leagues worldwide.',
         price: 74.90,
-        image: 'images/products/fifa24.jpg',
+        image: 'images/game-4.jpg',
     },
     {
         id: 5,
@@ -37,7 +37,7 @@ initStore([
         description:
             'Continue Link’s breathtaking adventure in this highly anticipated open-world fantasy sequel with new mechanics and challenges.',
         price: 84.50,
-        image: 'images/products/zelda-totk.jpg',
+        image: 'images/game-5.jpg',
     },
     {
         id: 6,
@@ -45,6 +45,6 @@ initStore([
         description:
             'Engage in intense military combat with thrilling single-player campaigns and competitive multiplayer modes.',
         price: 109.00,
-        image: 'images/products/cod-mw3.jpg',
+        image: 'images/game-6.jpg',
     },
 ]);
